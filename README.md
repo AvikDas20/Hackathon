@@ -1,1 +1,5 @@
-Final code submitted for the DS and ML Hackathon for TimesPro and IIT Roorkee
+# CheminformaticsPyScripts
+Scripts developed for Hackathon organized by IIT Roorkee and TimesPro
+
+Developed By
+Avik das
